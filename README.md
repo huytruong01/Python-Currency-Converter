@@ -3,4 +3,5 @@ Group 12 :
 -  Hồ Thị Thanh 
 -  Lê Đặng Trung
 
-- link slide  :https://docs.google.com/presentation/d/16yDdE7hgS-qY7SZkszgpgTsTK6ljK3BN/edit#slide=id.p3
+- <strong>link slide </strong>
+-  :https://docs.google.com/presentation/d/16yDdE7hgS-qY7SZkszgpgTsTK6ljK3BN/edit#slide=id.p3
